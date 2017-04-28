@@ -24,7 +24,7 @@ Add as a Maven dependency at your project:
     <dependency>
         <groupId>org.abstractj.kalium</groupId>
         <artifactId>kalium</artifactId>
-        <version>0.4.0</version>
+        <version>0.6.0</version>
         <scope>compile</scope>
     </dependency>
 
